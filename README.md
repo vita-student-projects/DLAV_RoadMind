@@ -37,4 +37,6 @@ The model weights can be found at: https://drive.google.com/drive/u/1/folders/1D
    optuna>=2.10.0
    pillow>=8.3.0
    tensorboard>=2.7.0
+   scikit-learn>=1.2.2
+   tqdm>=4.65.0
    ```
